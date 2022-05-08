@@ -2,4 +2,4 @@
 
 Aimed screenshot:
 
-![Ekran görüntüsü 2022-05-07 134924](https://user-images.githubusercontent.com/63124871/167312474-942c8670-e559-4752-acff-733fceb6e5c6.jpg)
+![Screenshot 2022-05-08 at 21 28 57 (2)](https://user-images.githubusercontent.com/63124871/167312541-ab7cac18-50ac-4942-846e-3f4de77be0ad.png)
