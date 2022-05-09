@@ -137,3 +137,8 @@ tr td:last-child i{
 .footer div:nth-child(2) {
     width: 21%;
 }
+
+tr td:last-child {
+    display: flex;
+    justify-content: space-around;
+}
