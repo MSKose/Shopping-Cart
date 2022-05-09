@@ -126,10 +126,6 @@ tr td:last-child i{
     
 }
 
-tr td:last-child i:last-child {
-
-}
-
 .footer div .fa-solid {
     font-size: larger;
 }
@@ -138,3 +134,6 @@ tr td:last-child i:last-child {
     font-size: larger;
 }
 
+.footer div:nth-child(2) {
+    width: 21%;
+}
